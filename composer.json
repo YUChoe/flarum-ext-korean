@@ -2,6 +2,7 @@
     "name": "yongteak/flarum-ext-korean",
     "type": "flarum-extension",
     "description": "Korean language pack.",
+    "homepage": "https://github.com/yongteak/flarum-ext-korean",
     "keywords": ["locale"],
     "license": "MIT",
     "require": {
