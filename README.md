@@ -1,2 +1,1 @@
-# flarum-ext-korean
-flarum 한글버전
+composer require yongteak/flarum-ext-korean
