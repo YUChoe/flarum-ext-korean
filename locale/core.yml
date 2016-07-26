@@ -217,13 +217,13 @@ core:
 
     # These translations are used by the discussion control buttons.
     discussion_controls:
-      cannot_reply_button: Can't Reply
+      cannot_reply_button: 답글불가
       cannot_reply_text: You don't have permission to reply to this discussion.
       delete_button: => core.ref.delete
       delete_confirmation: "Are you sure you want to delete this discussion?"
       delete_forever_button: => core.ref.delete_forever
       log_in_to_reply_button: Log In to Reply
-      rename_button: Rename
+      rename_button: 이름변경
       rename_text: "Enter a new title for this discussion:"
       reply_button: => core.ref.reply
       restore_button: => core.ref.restore
@@ -487,34 +487,34 @@ core:
 
   # Translations in this namespace are referenced by two or more unique keys.
   ref:
-    all_discussions: All Discussions
-    change_email: Change Email
-    change_password: Change Password
-    confirm_password: Confirm Password
+    all_discussions: 모든 게시글
+    change_email: 이메일 변경
+    change_password: 패스워드 변경
+    confirm_password: 패스워드 확인
     confirmation_email_sent: "We've sent a confirmation email to {email}. If it doesn't arrive soon, check your spam folder."
-    delete: Delete
-    delete_forever: Delete Forever
+    delete: 삭제
+    delete_forever: 영구삭제
     discussions: Discussions
-    edit: Edit
-    email: Email
-    load_more: Load More
-    log_in: Log In
-    log_out: Log Out
-    mark_all_as_read: Mark All as Read
-    next_page: Next Page
-    notifications: Notifications
-    okay: OK                                     # Referenced by flarum-tags.yml
-    password: Password
-    reply: Reply                                 # Referenced by flarum-mentions.yml
-    reset_your_password: Reset Your Password
-    restore: Restore
-    save_changes: Save Changes                   # Referenced by flarum-suspend.yml, flarum-tags.yml
-    settings: Settings
-    sign_up: Sign Up
+    edit: 편집
+    email: 이메일
+    load_more: 더보기
+    log_in: 로그인
+    log_out: 로그아웃
+    mark_all_as_read: 모두읽음 표시
+    next_page: 다음페이지
+    notifications: 알림
+    okay: 확인                                     # Referenced by flarum-tags.yml
+    password: 패스워드
+    reply: 답글                                 # Referenced by flarum-mentions.yml
+    reset_your_password: 패스워드 초기화
+    restore: 복구
+    save_changes: 변경내용 저장                   # Referenced by flarum-suspend.yml, flarum-tags.yml
+    settings: 설정
+    sign_up: 가입
     some_others: "{count} other|{count} others"  # Referenced by flarum-likes.yml, flarum-mentions.yml
-    start_a_discussion: Start a Discussion
-    username: Username
-    write_a_reply: Write a Reply...
+    start_a_discussion: 글쓰기
+    username: 사용자이름
+    write_a_reply: 답글 작성하기...
     you: You                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
 
   ##
