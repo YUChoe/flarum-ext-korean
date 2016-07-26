@@ -1,5 +1,5 @@
 {
-    "name": "myongteak/flarum-ext-korean",
+    "name": "yongteak/flarum-ext-korean",
     "type": "flarum-extension",
     "description": "Korean language pack for Flarum.",
     "homepage": "https://github.com/yongteak/flarum-ext-korean",
@@ -13,7 +13,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/myongteak/flarum-ext-korean/issues",
+        "issues": "https://github.com/yongteak/flarum-ext-korean/issues",
         "source": "https://github.com/yongteak/flarum-ext-korean",
         "forum": "https://discuss.flarum.org"
     },
