@@ -195,7 +195,7 @@ core:
     # These translations are used by the composer when starting a discussion.
     composer_discussion:
       body_placeholder: 본문을 작성해주세요 ....
-      discard_confirmation: "게시물이 완료되지 않았습니다. 내용을 취소하시겠습니까?""
+      discard_confirmation: "게시물이 완료되지 않았습니다. 내용을 취소하시겠습니까?"
       submit_button: 게시물 등록
       title: => core.ref.start_a_discussion
       title_placeholder: 게시물 제목
@@ -342,8 +342,7 @@ core:
       notify_by_web_heading: 웹
       notify_discussion_renamed_label: 내 게시글이 누군가 이름을 변경했을때
       privacy_disclose_online_label: 다른사람에게 나의 온라인 상태를 보이게
-      privacy_heading: 
-개인 정보 보호
+      privacy_heading: 개인 정보 보호
       title: => core.ref.settings
 
     # These translations are used in the Sign Up modal dialog.
