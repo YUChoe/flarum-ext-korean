@@ -1,5 +1,5 @@
 {
-    "name": "flarum/flarum-ext-korean",
+    "name": "yongteak/flarum-ext-korean",
     "type": "flarum-extension",
     "description": "Korean language pack.",
     "keywords": ["locale"],
@@ -14,7 +14,7 @@
         "flarum-extension": {
             "title": "Korean",
             "icon": {
-                "image": "icon.svg",
+                "image": "star",
                 "backgroundColor": "#00247d",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
